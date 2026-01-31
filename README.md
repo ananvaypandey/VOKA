@@ -66,6 +66,8 @@ Prakriti – 28 y/o social worker, fosters rural empowerment
  Integrate IoT safety features (fall detection, alerts)
 
  Future: Build custom LLM for enhanced accessibility
+
+ Videos link - https://www.youtube.com/playlist?list=PLZeGKosm-IAUnZNEYF1VLCqaYg2RqIJfb
  
 📜 License
 
